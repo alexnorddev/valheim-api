@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Meadows"
+        },
+        {
+            "id": 2,
+            "name": "Black Forest"
+        },
+        {
+            "id": 3,
+            "name": "Ocean"
+        },
+        {
+            "id": 4,
+            "name": "Swamp"
+        },
+        {
+            "id": 5,
+            "name": "Plains"
+        }
+    ]
+}
